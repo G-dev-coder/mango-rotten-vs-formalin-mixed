@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+    formalin     0.9192    0.9785    0.9479        93
+      rotten     0.9775    0.9158    0.9457        95
+
+    accuracy                         0.9468       188
+   macro avg     0.9484    0.9471    0.9468       188
+weighted avg     0.9487    0.9468    0.9468       188
