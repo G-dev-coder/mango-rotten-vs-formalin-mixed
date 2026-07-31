@@ -191,7 +191,7 @@ confidence scores for both classes.
 | Okon, Christiana Maurice |  23/EG/AE/035 |  https://github.com/chris-chris001 | Model development & training |
 | Emmanuel Michael Bassey |  22/EG/AE/75 |  https://github.com/emmasolutions668-ai | Streamlit app & cloud deployment |
 | Ankra Abasi-ikponke |  22/EG/AE/795 |  https://github.com/ankra-tech | Documentation & report |
-
+| Akpan Nsikakabasi |  22/EG/AE/805 |  https://github.com/nsi-de-coder | Documentation & report |
 ---
 
 ## 9. Course Learning Outcomes Addressed
