@@ -187,10 +187,10 @@ confidence scores for both classes.
 
 | Name | Registration Number | GitHub Username | Contribution |
 |---|---|---|---|
-| _Fill in_ | _Fill in_ | _Fill in_ | Dataset collection & preprocessing |
-| _Fill in_ | _Fill in_ | _Fill in_ | Model development & training |
-| _Fill in_ | _Fill in_ | _Fill in_ | Streamlit app & cloud deployment |
-| _Fill in_ | _Fill in_ | _Fill in_ | Documentation & report |
+| Sunday, Godbless Ekerette | 23/EG/AE/025 | https://github.com/G-dev-coder | Dataset collection & preprocessing |
+| YOUR NAME |  XX/EG/AE/XXX |  https://github.com/ | Model development & training |
+| YOUR NAME |  XX/EG/AE/XXX |  https://github.com/ | Streamlit app & cloud deployment |
+| YOUR NAME |  XX/EG/AE/XXX |  https://github.com/ | Documentation & report |
 
 ---
 
