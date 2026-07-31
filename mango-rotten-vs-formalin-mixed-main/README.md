@@ -188,7 +188,7 @@ confidence scores for both classes.
 | Name | Registration Number | GitHub Username | Contribution |
 |---|---|---|---|
 | Sunday, Godbless Ekerette | 23/EG/AE/025 | https://github.com/G-dev-coder | Dataset collection & preprocessing |
-| YOUR NAME |  XX/EG/AE/XXX |  https://github.com/ | Model development & training |
+| Okon, Christiana Maurice |  23/EG/AE/035 |  https://github.com/chris-chris001 | Model development & training |
 | YOUR NAME |  XX/EG/AE/XXX |  https://github.com/ | Streamlit app & cloud deployment |
 | YOUR NAME |  XX/EG/AE/XXX |  https://github.com/ | Documentation & report |
 
