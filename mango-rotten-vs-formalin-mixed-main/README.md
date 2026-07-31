@@ -1,4 +1,4 @@
-# 🥭 Mango Safety Classifier — Rotten vs. Formalin-Treated Mango
+ý# 🥭 Mango Safety Classifier — Rotten vs. Formalin-Treated Mango
 
 **GET 324 — Cloud Computing and AI Model Deployment for Engineering Applications**
 Laboratory Exercise 10 (Mini-Project)
@@ -189,7 +189,7 @@ confidence scores for both classes.
 |---|---|---|---|
 | Sunday, Godbless Ekerette | 23/EG/AE/025 | https://github.com/G-dev-coder | Dataset collection & preprocessing |
 | Okon, Christiana Maurice |  23/EG/AE/035 |  https://github.com/chris-chris001 | Model development & training |
-| YOUR NAME |  XX/EG/AE/XXX |  https://github.com/ | Streamlit app & cloud deployment |
+| Emmanuel Michael Bassey |  22/EG/AE/75 |  https://github.com/emmasolutions668-ai | Streamlit app & cloud deployment |
 | YOUR NAME |  XX/EG/AE/XXX |  https://github.com/ | Documentation & report |
 
 ---
