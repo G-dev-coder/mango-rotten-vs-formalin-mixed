@@ -190,7 +190,7 @@ confidence scores for both classes.
 | Sunday, Godbless Ekerette | 23/EG/AE/025 | https://github.com/G-dev-coder | Dataset collection & preprocessing |
 | Okon, Christiana Maurice |  23/EG/AE/035 |  https://github.com/chris-chris001 | Model development & training |
 | Emmanuel Michael Bassey |  22/EG/AE/75 |  https://github.com/emmasolutions668-ai | Streamlit app & cloud deployment |
-| YOUR NAME |  XX/EG/AE/XXX |  https://github.com/ | Documentation & report |
+| Ankra Abasi-ikponke |  22/EG/AE/795 |  https://github.com/ankra-tech | Documentation & report |
 
 ---
 
